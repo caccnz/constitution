@@ -213,7 +213,8 @@ Membership Meetings.
 
 ### Section III Qualificatlons Of Elder
 
-1. An Elder shall be a born-again Christian for at least seven years.
+1. An Elder shall be a born-again Christian and baptised for at least seven
+   years.
 
 2. Biblical standards shall be taken into consideration, (I Timothy 3:17, Titus
    1:59, Acts 20:23)
