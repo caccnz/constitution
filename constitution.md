@@ -490,12 +490,9 @@ officers of The Church.
 
 ### Section IV Auditing
 
-1. The Consolidated Financial Statement of The Church shall be audited annually.
-   The Executive Committee shall decide upon the auditor.
-
-2. The Executive Committee shall ensure that the financial records of all
-   departments (including fellowships) are reviewed at least annually or be
-   order of the Executive Committee at more frequent intervals.
+The Executive Committee shall ensure that the financial records of all
+departments (including fellowships) are reviewed at least annually or be order
+of the Executive Committee at more frequent intervals.
 
 ## Article XIV Bylaws And Amendments
 
