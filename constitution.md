@@ -299,8 +299,8 @@ Membership Meetings.
 
 ### Section III Qualifications Of Executive Committee Members
 
-1. An Executive Committee member shall be a born-again Christian for at least
-   five years.
+1. An Executive Committee member shall be a born-again Christian and baptised
+   for at least five years.
 
 2. Biblical standards shall be taken into consideration.  (I Timothy 3:813, Acts
    6:16)
