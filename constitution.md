@@ -380,7 +380,8 @@ Chairman of this committee.
    Meeting for discussion and evaluation by the Nominating Committee.
 
 4. Other nominations may be made from the floor, except for the position of
-   Elder.
+   Elder.  However such nominee needs to be reviewed and approved by the
+   Nomination Committee before putting forward to the Members for election.
 
 5. Nominations for Elders shall be made in writing, signed by two active members
    in good standing and filed with the Chairman of the Nominating Committee six
