@@ -304,8 +304,8 @@ Membership Meetings.
 2. Biblical standards shall be taken into consideration.  (I Timothy 3:813, Acts
    6:16)
 
-3. Executive Committee members must have been active members of The Church for
-   at least two years.
+3. Executive Committee members must have been active members of The Church and
+   must have been attended the Church for at least two years.
 
 ### Section IV Responsibilities
 
