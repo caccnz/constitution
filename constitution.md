@@ -381,16 +381,12 @@ Chairman of this committee.
    Chairman of the Nominating Committee six weeks before the Annual Membership
    Meeting for discussion and evaluation by the Nominating Committee.
 
-4. Other nominations may be made from the floor, except for the position of
-   Elder.  However such nominee needs to be reviewed and approved by the
-   Nomination Committee before putting forward to the Members for election.
-
-5. Nominations for Elders shall be made in writing, signed by two active members
+4. Nominations for Elders shall be made in writing, signed by two active members
    in good standing and filed with the Chairman of the Nominating Committee six
    weeks before the Annual Membership Meeting for discussion and evaluation by
    the Nominating Committee.
 
-6. Those nominees who are not elected for a particular office will automatically
+5. Those nominees who are not elected for a particular office will automatically
    become nominees for the Members At Large of the Executive Committee.
 
 ### Section II Elections
