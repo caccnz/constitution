@@ -142,6 +142,12 @@ Membership Meetings.
    Written reports for consideration at The Annual Membership Meeting shall be
    made available to members at least seven days prior to the meeting.
 
+7. Employment: Employment of Senior Pastor and Ordained Pastors must be approved
+   by majority of the members present at the Annual General Meeting or a Special
+   Membership Meeting. Employment of co-workers, including Pastors,
+   Administrators and other staff shall be approved by the Senior Pastor and the
+   Executive Committee.
+
 ### Section III Special Membership Meeting
 
 1. The date and purpose(s) of a Special Membership Meeting shall be announced
