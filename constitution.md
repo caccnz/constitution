@@ -54,7 +54,10 @@ the Christian & Missionary Alliance of New Zealand.
 
    Members who are not actively attending and supporting The Church for one year
    and have not withdrawn their membership. Associate Membership confers the
-   right to debate but not to vote in membership meetings of The Church.
+   right to debate but not to vote in membership meetings of The Church. After
+   one year, Associate Members shall automatically lose their membership unless
+   they apply annually, in writing to extend their Associate Membership and it
+   is accepted by the Membership Committee.
 
 ### Section III Membership Committee
 
