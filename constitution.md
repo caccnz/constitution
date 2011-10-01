@@ -297,7 +297,7 @@ Membership Meetings.
 1. The term of office for an Executive Committee member shall be two years.
    Executive Committee members may be elected or appointed up to three
    consecutive terms, following which they shall not hold office for at least
-   one term.
+   one year.
 
 2. If a member of the Executive Committee is absent from three consecutive
    meetings of the Executive Committee without due cause, the Board of Elders
