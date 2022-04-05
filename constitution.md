@@ -233,7 +233,8 @@ Membership Meetings.
 3. An elder must have been an active member of The Church for at least three
    years.
 
-4. An elder must possess experiences in various facets of Christian ministry.
+4. An elder must possess experience across a variety of areas of Christian
+   ministry.
 
 ### Section IV Functions
 
