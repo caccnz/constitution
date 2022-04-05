@@ -175,12 +175,11 @@ Membership Meetings.
 
    Any motions presented by the Board of Elders or the Executive Committee may
    be accepted by a simple majority vote. All motions from the floor require two
-   thirds of the votes in order to be accepted. The Constitution of Local Church
-   and Bylaws of The Church shall govern the proceedings at any Membership
-   Meeting where applicable. In other cases, the current edition of Robert's
-   Rules of Order shall apply. All types of members are entitled to participate
-   in the deliberation in Membership Meetings but only active members eighteen
-   years of age and older are entitled to vote.
+   thirds of the votes in order to be accepted. These bylaws shall govern the
+   proceedings at any Membership Meeting where applicable. In other cases, the
+   current edition of Robert's Rules of Order shall apply. All types of members
+   are entitled to participate in the deliberation in Membership Meetings but
+   only active members eighteen years of age and older are entitled to vote.
 
 3. Minutes
 
