@@ -429,10 +429,10 @@ Chairman of this committee.
    exception of the Pastoral Staff and the Chairman of the Executive Committee,
    shall be elected at the Annual Membership Meeting.
 
-2. Elections shall be by ballot and the nominees shall get 50% of the cast vote
-   for him to be successfully elected. (The 50% rule is applicable to the
-   elections of the Executive Committee Member and representatives from the
-   general membership.
+2. Elections shall be by ballot and the nominees shall require a majority vote
+   for him to be successfully elected. (This rule is applicable to the elections
+   of the Executive Committee Member and representatives from the general
+   membership.)
 
 3. The Executive Committee shall appoint two active members to count the
    ballots, and shall invite two members of the pastoral staff or of the Board
