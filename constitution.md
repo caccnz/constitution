@@ -104,7 +104,8 @@ writing to the Secretary of the Board of Elders.
    outlining the events, the disciplinary action taken, and reasons for such
    action. Such records shall be maintained for five years.
 
-4. Disciplinary action shall be reported to the Director’s office if necessary.
+4. Disciplinary action shall be reported to the National Director’s office if
+   necessary.
 
 ## Article VI Government
 
