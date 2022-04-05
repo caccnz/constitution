@@ -227,8 +227,8 @@ Membership Meetings.
 1. An elder shall be a born-again Christian and baptised for at least seven
    years.
 
-2. Biblical standards shall be taken into consideration, (I Timothy 3:17, Titus
-   1:59, Acts 20:23)
+2. An elder shall satisfy the character requirements for church leadership as
+   set forth in 1 Timothy 3 and Titus 1.
 
 3. An elder must have been an active member of The Church for at least three
    years.
@@ -336,8 +336,8 @@ ministry of The Church.
 1. An Executive Committee member shall be a born-again Christian and baptised
    for at least five years.
 
-2. Biblical standards shall be taken into consideration.  (I Timothy 3:813, Acts
-   6:16)
+2. An Executive Committee member shall satisfy the character requirements for
+   church leadership as set forth in 1 Timothy 3 and Acts 6.
 
 3. An Executive Committee member must have been an active member of The Church
    and have attended The Church for at least two years.
