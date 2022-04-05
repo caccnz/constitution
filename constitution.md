@@ -33,7 +33,7 @@ the Christian & Missionary Alliance of New Zealand.
 ### Section I Qualifications
 
 1. A credible testimony of faith in the Lord Jesus Christ before the Board of
-   Elders and a Confession of Faith by baptism.
+   Elders and a confession of faith by baptism.
 
 2. A commitment to "Article II Membership and Doctrine" as set forth in the
    "Constitution for Churches."
@@ -46,8 +46,8 @@ the Christian & Missionary Alliance of New Zealand.
 
 2. Honorary Membership
 
-   Members who are serving in fulltime Christian ministry elsewhere but express
-   a desire in writing to maintain their membership.  Honorary members have no
+   Members who are serving in full-time Christian ministry elsewhere but express
+   a desire in writing to maintain their membership. Honorary members have no
    voting privileges at membership meetings of The Church.
 
 3. Associate Membership
@@ -75,8 +75,8 @@ writing to the Secretary of the Board of Elders.
 
 ### Section V Preparatory Steps For Membership
 
-1. Transference of membership from other churches may be made be letter of
-   transfer, stating that the applicant is a member in good standing or be
+1. Transference of membership from other churches may be made by letter of
+   transfer, stating that the applicant is a member in good standing or by
    personal testimony giving satisfactory evidence of regeneration.
 
 2. All membership applicants shall be interviewed and approved by the Board of
@@ -85,11 +85,11 @@ writing to the Secretary of the Board of Elders.
 ### Section VI Discipline Of Members
 
 1. If, in the majority opinion of the Board of Elders, a member who by their
-   behavior or teaching is no longer acting in accordance with the Biblical
+   behaviour or teaching is no longer acting in accordance with the biblical
    standards of The Church, the member shall be subject to the discipline of The
    Church. The purpose of discipline is restoration. Such discipline may take
    the form of: instruction and warning, correction and reprimand, a limitation
-   of the members’ right to hold office by means of removal from office or he
+   of the members’ right to hold office by means of removal from office or the
    restriction from standing for office, a limitation of participation in the
    ordinances of The Church and, in extreme cases, termination of membership.
 
@@ -100,7 +100,7 @@ writing to the Secretary of the Board of Elders.
 3. The Board of Elders shall maintain detailed written record of disciplinary
    action and wherever possible, have the people involved sign a statement
    outlining the events, the disciplinary action taken, and reasons for such
-   action. Such records shall be maintained for five gears,
+   action. Such records shall be maintained for five years.
 
 4. Disciplinary action shall be reported to the Director’s office if necessary.
 
@@ -156,7 +156,7 @@ Membership Meetings.
 1. The date and purpose(s) of a Special Membership Meeting shall be announced
    and posted at least fourteen days prior to the meeting.
 
-2. Either onehalf of the Board of Elders or onehalf of the Executive Committee
+2. Either one-half of the Board of Elders or one-half of the Executive Committee
    may call a Special Members Meeting.
 
 3. A minimum of ten percent of the active membership is required to request the
@@ -191,14 +191,14 @@ Membership Meetings.
 
 1. The Board of Elders shall have a minimum number of four elected members and
    the Senior Pastor. The existing Board of Elders shall determine the maximum
-   number. All fulltime Pastoral Staff shall be "exofficio" members.
+   number. All full-time Pastoral Staff shall be "ex-officio" members.
 
 2. The Senior Pastor shall be the Chairman or, at his request, the elders or the
    membership of The Church may elect a chairman annually from among the elected
    eldership.
 
 3. The Chairman of the Board of Elders shall at their first meeting following
-   the Annual Membership Meeting appoint his Vice-Chairman. The Board of Elders
+   the Annual Membership Meeting appoint his Vice Chairman. The Board of Elders
    shall elect the Secretary.
 
 4. The quorum for the Board of Elders shall be a majority.
@@ -207,8 +207,8 @@ Membership Meetings.
 
 ### Section II Term Of Office
 
-1. The term of office for an elder is two years commencing October l of the year
-   of election,
+1. The term of office for an elder is two years commencing October 1 of the year
+   of election.
 
 2. An elder may be elected up to three consecutive two year terms, following
    which he shall not hold office for at least one year.
@@ -220,18 +220,18 @@ Membership Meetings.
    elected annually) to ensure continuity of leadership within the Board of
    Elders.
 
-### Section III Qualificatlons Of Elder
+### Section III Qualifications Of Elder
 
-1. An Elder shall be a born-again Christian and baptised for at least seven
+1. An elder shall be a born-again Christian and baptised for at least seven
    years.
 
 2. Biblical standards shall be taken into consideration, (I Timothy 3:17, Titus
    1:59, Acts 20:23)
 
-3. An Elder must have been an active member of The Church for at least three
+3. An elder must have been an active member of The Church for at least three
    years.
 
-4. An Elder must possess experiences in various facets of Christian ministry.
+4. An elder must possess experiences in various facets of Christian ministry.
 
 ### Section IV Functions
 
@@ -269,7 +269,7 @@ Membership Meetings.
 ### Section I Structure
 
 1. The Executive Committee shall be elected at the Annual Membership Meeting
-   with the exception of the Chairman.  The Chairman of the Board of Elders
+   with the exception of the Chairman. The Chairman of the Board of Elders
    shall appoint the Chairman of the Executive Committee.
 
 2. The Executive Committee shall consist of the Chairman, Vice Chairman,
@@ -325,11 +325,11 @@ Membership Meetings.
 
 2. In the absence of a Board of Elders, the Executive Committee shall be
    responsible for the general business and operations of The Church. Any
-   elected elders and all Fulltime Pastoral Staff shall be exofficio members of
-   the Executive Committee and shall be represented at all Executive Committee
-   meetings.
+   elected elders and all full-time Pastoral Staff shall be ex-officio members
+   of the Executive Committee and shall be represented at all Executive
+   Committee meetings.
 
-### Section V Individual Duiies
+### Section V Individual Duties
 
 1. Chairman
 
@@ -362,16 +362,16 @@ Membership Meetings.
 ## Article IX Departments
 
 Departments established under the authority of the Board of Elders shall be
-amenable to the Board of Elders.  The Nomination Committee is amenable to the
+amenable to the Board of Elders. The Nomination Committee is amenable to the
 congregation.
 
 ## Article X Nominating Committee
 
 The Nominating Committee shall consist of the Senior Pastor and four additional
 members: two from the general membership and two from the Board of Elders (in
-the absence of a Board of Elders, two from the Executive Committee).  These four
+the absence of a Board of Elders, two from the Executive Committee). These four
 members shall be elected by ballot by the respective bodies at least three
-months prior to the Annual Membership meeting.  The Senior Pastor or in his
+months prior to the Annual Membership meeting. The Senior Pastor or in his
 absence the Assistant Pastor, or the Senior Pastor's appointee shall be the
 Chairman of this committee.
 
@@ -474,12 +474,12 @@ officers of The Church.
 
 ### Section III Accounting
 
-1. Authorized signatory
+1. Authorised signatory
 
-   The authorized signatory of The Church shall be the Senior Pastor, the
+   The authorised signatory of The Church shall be the Senior Pastor, the
    Treasurer and the Assistant Treasurer and one designated Elder and/or one
-   designated member of the Executive Committee. A11 cheques shall be signed by
-   any two of the above.  All checks in other departments (including
+   designated member of the Executive Committee. All cheques shall be signed by
+   any two of the above. All cheques in other departments (including
    fellowships) shall be signed by two persons who are appointed by the
    leadership of that department or fellowship.
 
