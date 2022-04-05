@@ -555,15 +555,7 @@ shall be the original.
 ### Section II Amendments
 
 1. These bylaws may be amended by a two third majority of the votes cast by the
-   members in a Membership Meeting and approved by the Board of Managers of New
-   Zealand.
+   members in a Membership Meeting.
 
-2. These by-laws have been drafted and approved by the Advisory Committee on 14
-   of June 1993 and approved at the first Membership Meeting on 26 of June 1993
-   and approved by the Board of Managers on 26 of June 1993.
-
-3. The Board of Managers of New Zealand shall approve the Bylaws before becoming
-   effective.
-
-4. The masculine pronouns in these Bylaws shall also represent the feminine
+2. The masculine pronouns in these Bylaws shall also represent the feminine
    persons.
