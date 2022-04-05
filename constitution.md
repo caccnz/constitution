@@ -109,7 +109,7 @@ writing to the Secretary of the Board of Elders.
 
 ## Article VI Government
 
-### Section I
+### Section I Chairman
 
 The Senior Pastor or, in his absence the Assistant Pastor or the Senior Pastor's
 appointee shall act as the Chairman of the Annual Membership Meeting or Special
