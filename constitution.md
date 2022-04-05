@@ -487,7 +487,7 @@ officers of The Church.
 1. The annual budget shall include the operating and capital budgets of all
    departments and projects of The Church.
 
-2. The annual budget shall cover the fiscal year of August 1 to July 31.
+2. The annual budget shall cover the fiscal year from 1 August to 31 July.
 
 3. The annual budget shall be prepared by the Executive Committee by the third
    Sunday of July, reviewed by the Executive Committee by the second Sunday of
