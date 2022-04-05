@@ -421,7 +421,7 @@ Chairman of this committee.
    the Nominating Committee.
 
 5. Those nominees who are not elected for a particular office will automatically
-   become nominees for the Members At Large of the Executive Committee.
+   become nominees for the Executive Committee.
 
 ### Section II Elections
 
