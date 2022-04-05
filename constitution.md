@@ -97,7 +97,7 @@ writing to the Secretary of the Board of Elders.
    in writing of the charge and shall have the right to appear before the Board
    or Elders prior to the Board of Elders taking disciplinary action.
 
-3. The Board of Elders shall maintain detailed written record of disciplinary
+3. The Board of Elders shall maintain a detailed written record of disciplinary
    action and wherever possible, have the people involved sign a statement
    outlining the events, the disciplinary action taken, and reasons for such
    action. Such records shall be maintained for five years.
@@ -314,8 +314,8 @@ Membership Meetings.
 2. Biblical standards shall be taken into consideration.  (I Timothy 3:813, Acts
    6:16)
 
-3. Executive Committee members must have been active members of The Church and
-   must have been attended the Church for at least two years.
+3. An Executive Committee member must have been an active member of The Church
+   and have attended The Church for at least two years.
 
 ### Section IV Responsibilities
 
@@ -410,8 +410,8 @@ Chairman of this committee.
    general membership.
 
 3. The Executive Committee shall appoint two active members to count the
-   ballots, and shall invite two members of the pastoral staff or of Board of
-   Elders to supervise the proceedings.
+   ballots, and shall invite two members of the pastoral staff or of the Board
+   of Elders to supervise the proceedings.
 
 ## Article XII Property And Records
 
@@ -456,7 +456,7 @@ officers of The Church.
 
 5. After budget approval the Executive Committee shall exercise due diligence in
    the use of cash by setting priorities for spending with the objective of
-   maintaining balanced cash position.
+   maintaining a balanced cash position.
 
 ### Section II Un-Budgeted Expenditures
 
