@@ -2,13 +2,13 @@
 
 The Bylaws of the Chinese Alliance Christian Church shall be in accordance with
 the Constitution For Churches incorporated in the most current edition of the
-General Constitution of The Christian and Missionary Alliance of New Zealand.
-(Hereafter referred to as The Alliance)
+General Constitution of The Christian and Missionary Alliance of New Zealand
+("The Alliance").
 
 ## Article I The Name
 
-The Church shall be known as the Chinese Alliance Christian Church (hereafter
-referred to as The Church) of The Alliance.
+The Church shall be known as the Chinese Alliance Christian Church ("The
+Church") of The Alliance.
 
 ## Article II Purpose
 
