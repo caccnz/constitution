@@ -1,9 +1,8 @@
 # Preamble
 
 The Bylaws of the Chinese Alliance Christian Church shall be in accordance with
-the Constitution For Churches incorporated in the most current edition of the
-General Constitution of The Christian and Missionary Alliance of New Zealand
-("The Alliance").
+the Constitution and Bylaws of The Christian and Missionary Alliance of New
+Zealand ("The Alliance").
 
 ## Article I The Name
 
@@ -18,15 +17,17 @@ nurturing them to be faithful believers and members of The Church.
 
 ## Article III Doctrinal Statement
 
-The Church accepts "Article III the Doctrinal Statement of the Alliance" as
-outlined in the General Constitution of The Alliance of New Zealand".
+The Church accepts "The Doctrinal Statement of the Alliance" as outlined in
+Article III of the General Constitution of The Alliance.
 
 ## Article IV Relationship
 
-The Church accepts "Article VIII Relationship "as outlined in the "Constitution
-for Churches." The Church shall financially support the pastor(s), the fulltime
-church workers and The Church representatives to attend the Annual Council of
-the Christian & Missionary Alliance of New Zealand.
+The parent body of this church is The Alliance. The Church is subordinate to the
+constitution of that body. The Church shall contribute financially towards the
+funds of The Alliance as prescribed by the General Council.
+
+The Church shall financially support the pastor(s), the full-time church workers
+and any delegates to attend the Annual General Council of The Alliance.
 
 ## Article V Church Membership
 
@@ -35,8 +36,9 @@ the Christian & Missionary Alliance of New Zealand.
 1. A credible testimony of faith in the Lord Jesus Christ before the Board of
    Elders and a confession of faith by baptism.
 
-2. A commitment to "Article II Membership and Doctrine" as set forth in the
-   "Constitution for Churches."
+2. Acceptance of “The Doctrinal Statement of the Alliance” and be in agreement
+   with the principles and objects of The Alliance and co-operation by
+   contributing to its work.
 
 ### Section II Types Of Membership
 
@@ -235,10 +237,32 @@ Membership Meetings.
 
 ### Section IV Functions
 
-1. The Elders shall serve with the Senior Pastor in the oversight of the
-   spiritual and administrative functions of The Church according to Article VI
-   E, "Constitution for Churches". They may appoint such officers or committees
-   as are necessary to properly fulfill the ministry of The Church.
+The Elders shall serve with the Senior Pastor in the oversight of the spiritual
+and administrative functions of The Church in the following areas. They may
+appoint such officers or committees as are necessary to properly fulfil the
+ministry of The Church.
+
+1. To oversee preaching and teaching
+
+2. To make decisions on matters of doctrine and practice affecting The Church.
+
+3. For the provision of pastoral care, including visitation, counselling,
+   anointing and prayer for the sick.
+
+4. For examining candidates for membership, disciplining members and keeping the
+   membership rolls up to date.
+
+5. To oversee The Church's programmes to ensure their harmony and contribution
+   to the purposes of The Church.
+
+6. For appointing people to non-elected positions and for filling positions
+   becoming vacant between annual meetings.
+
+7. To issue calls to pastoral candidates with the approval of the Church
+   Membership and the National Director.
+
+8. To appoint a secretary who shall keep the minutes of all Elders Board
+   meetings.
 
 ### Section V Individual Duties
 
@@ -417,8 +441,26 @@ Chairman of this committee.
 
 ### Section I Property
 
-The Church accepts Article XII "Property” as outlined in the General
-Constitution of The Alliance.
+1. Real Property
+
+   The title to all real property shall be held by The Alliance. The Alliance
+   National Leadership Team shall provide a declaration of trust indicating that
+   the property is held in trust for The Church. The Church may acquire, sell,
+   convey, exchange or encumber real property by order of The Church membership
+   through the Executive Committee. Where trustees are required, the order of
+   membership shall proceed through them.
+
+2. Personal Property
+
+   The Church may acquire, sell, improve, encumber and convey personal property
+   for church purposes.
+
+3. Dissolution
+
+   Should The Church cease to exist or cease to be subject to the constitution
+   of The Alliance, then all of its property, appurtenances, and effects, then
+   owned or held by it shall enure to the benefit of, and become the property of
+   The Alliance.
 
 ### Section II Records
 
