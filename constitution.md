@@ -1,14 +1,13 @@
 # Preamble
 
 The Bylaws of the Chinese Alliance Christian Church shall be in accordance with
-the Constitution For Churches incorporated in the most current edition of the
-General Constitution of The Christian and Missionary Alliance of New Zealand.
-(Hereafter referred to as The Alliance)
+the Constitution and Bylaws of The Christian and Missionary Alliance of New
+Zealand ("The Alliance").
 
 ## Article I The Name
 
-The Church shall be known as the Chinese Alliance Christian Church (hereafter
-referred to as The Church) of The Alliance.
+The Church shall be known as the Chinese Alliance Christian Church ("The
+Church") of The Alliance.
 
 ## Article II Purpose
 
@@ -18,25 +17,28 @@ nurturing them to be faithful believers and members of The Church.
 
 ## Article III Doctrinal Statement
 
-The Church accepts "Article III the Doctrinal Statement of the Alliance" as
-outlined in the General Constitution of The Alliance of New Zealand".
+The Church accepts "The Doctrinal Statement of the Alliance" as outlined in
+Article III of the General Constitution of The Alliance.
 
 ## Article IV Relationship
 
-The Church accepts "Article VIII Relationship "as outlined in the "Constitution
-for Churches." The Church shall financially support the pastor(s), the fulltime
-church workers and The Church representatives to attend the Annual Council of
-the Christian & Missionary Alliance of New Zealand.
+The parent body of this church is The Alliance. The Church is subordinate to the
+constitution of that body. The Church shall contribute financially towards the
+funds of The Alliance as prescribed by the General Council.
+
+The Church shall financially support the pastor(s), the full-time church workers
+and any delegates to attend the Annual General Council of The Alliance.
 
 ## Article V Church Membership
 
 ### Section I Qualifications
 
 1. A credible testimony of faith in the Lord Jesus Christ before the Board of
-   Elders and a Confession of Faith by baptism.
+   Elders and a confession of faith by baptism.
 
-2. A commitment to "Article II Membership and Doctrine" as set forth in the
-   "Constitution for Churches."
+2. Acceptance of “The Doctrinal Statement of the Alliance” and be in agreement
+   with the principles and objects of The Alliance and co-operation by
+   contributing to its work.
 
 ### Section II Types Of Membership
 
@@ -46,8 +48,8 @@ the Christian & Missionary Alliance of New Zealand.
 
 2. Honorary Membership
 
-   Members who are serving in fulltime Christian ministry elsewhere but express
-   a desire in writing to maintain their membership.  Honorary members have no
+   Members who are serving in full-time Christian ministry elsewhere but express
+   a desire in writing to maintain their membership. Honorary members have no
    voting privileges at membership meetings of The Church.
 
 3. Associate Membership
@@ -75,8 +77,8 @@ writing to the Secretary of the Board of Elders.
 
 ### Section V Preparatory Steps For Membership
 
-1. Transference of membership from other churches may be made be letter of
-   transfer, stating that the applicant is a member in good standing or be
+1. Transference of membership from other churches may be made by letter of
+   transfer, stating that the applicant is a member in good standing or by
    personal testimony giving satisfactory evidence of regeneration.
 
 2. All membership applicants shall be interviewed and approved by the Board of
@@ -85,11 +87,11 @@ writing to the Secretary of the Board of Elders.
 ### Section VI Discipline Of Members
 
 1. If, in the majority opinion of the Board of Elders, a member who by their
-   behavior or teaching is no longer acting in accordance with the Biblical
+   behaviour or teaching is no longer acting in accordance with the biblical
    standards of The Church, the member shall be subject to the discipline of The
    Church. The purpose of discipline is restoration. Such discipline may take
    the form of: instruction and warning, correction and reprimand, a limitation
-   of the members’ right to hold office by means of removal from office or he
+   of the members’ right to hold office by means of removal from office or the
    restriction from standing for office, a limitation of participation in the
    ordinances of The Church and, in extreme cases, termination of membership.
 
@@ -97,16 +99,17 @@ writing to the Secretary of the Board of Elders.
    in writing of the charge and shall have the right to appear before the Board
    or Elders prior to the Board of Elders taking disciplinary action.
 
-3. The Board of Elders shall maintain detailed written record of disciplinary
+3. The Board of Elders shall maintain a detailed written record of disciplinary
    action and wherever possible, have the people involved sign a statement
    outlining the events, the disciplinary action taken, and reasons for such
-   action. Such records shall be maintained for five gears,
+   action. Such records shall be maintained for five years.
 
-4. Disciplinary action shall be reported to the Director’s office if necessary.
+4. Disciplinary action shall be reported to the National Director’s office if
+   necessary.
 
 ## Article VI Government
 
-### Section I
+### Section I Chairman
 
 The Senior Pastor or, in his absence the Assistant Pastor or the Senior Pastor's
 appointee shall act as the Chairman of the Annual Membership Meeting or Special
@@ -156,7 +159,7 @@ Membership Meetings.
 1. The date and purpose(s) of a Special Membership Meeting shall be announced
    and posted at least fourteen days prior to the meeting.
 
-2. Either onehalf of the Board of Elders or onehalf of the Executive Committee
+2. Either one-half of the Board of Elders or one-half of the Executive Committee
    may call a Special Members Meeting.
 
 3. A minimum of ten percent of the active membership is required to request the
@@ -173,12 +176,11 @@ Membership Meetings.
 
    Any motions presented by the Board of Elders or the Executive Committee may
    be accepted by a simple majority vote. All motions from the floor require two
-   thirds of the votes in order to be accepted. The Constitution of Local Church
-   and Bylaws of The Church shall govern the proceedings at any Membership
-   Meeting where applicable. In other cases, the current edition of Robert's
-   Rules of Order shall apply. All types of members are entitled to participate
-   in the deliberation in Membership Meetings but only active members eighteen
-   years of age and older are entitled to vote.
+   thirds of the votes in order to be accepted. These bylaws shall govern the
+   proceedings at any Membership Meeting where applicable. In other cases, the
+   current edition of Robert's Rules of Order shall apply. All types of members
+   are entitled to participate in the deliberation in Membership Meetings but
+   only active members eighteen years of age and older are entitled to vote.
 
 3. Minutes
 
@@ -191,14 +193,14 @@ Membership Meetings.
 
 1. The Board of Elders shall have a minimum number of four elected members and
    the Senior Pastor. The existing Board of Elders shall determine the maximum
-   number. All fulltime Pastoral Staff shall be "exofficio" members.
+   number. All full-time Pastoral Staff shall be "ex-officio" members.
 
 2. The Senior Pastor shall be the Chairman or, at his request, the elders or the
    membership of The Church may elect a chairman annually from among the elected
    eldership.
 
 3. The Chairman of the Board of Elders shall at their first meeting following
-   the Annual Membership Meeting appoint his Vice-Chairman. The Board of Elders
+   the Annual Membership Meeting appoint his Vice Chairman. The Board of Elders
    shall elect the Secretary.
 
 4. The quorum for the Board of Elders shall be a majority.
@@ -207,8 +209,8 @@ Membership Meetings.
 
 ### Section II Term Of Office
 
-1. The term of office for an elder is two years commencing October l of the year
-   of election,
+1. The term of office for an elder is two years commencing October 1 of the year
+   of election.
 
 2. An elder may be elected up to three consecutive two year terms, following
    which he shall not hold office for at least one year.
@@ -220,25 +222,48 @@ Membership Meetings.
    elected annually) to ensure continuity of leadership within the Board of
    Elders.
 
-### Section III Qualificatlons Of Elder
+### Section III Qualifications Of Elder
 
-1. An Elder shall be a born-again Christian and baptised for at least seven
+1. An elder shall be a born-again Christian and baptised for at least seven
    years.
 
-2. Biblical standards shall be taken into consideration, (I Timothy 3:17, Titus
-   1:59, Acts 20:23)
+2. An elder shall satisfy the character requirements for church leadership as
+   set forth in 1 Timothy 3 and Titus 1.
 
-3. An Elder must have been an active member of The Church for at least three
+3. An elder must have been an active member of The Church for at least three
    years.
 
-4. An Elder must possess experiences in various facets of Christian ministry.
+4. An elder must possess experience across a variety of areas of Christian
+   ministry.
 
 ### Section IV Functions
 
-1. The Elders shall serve with the Senior Pastor in the oversight of the
-   spiritual and administrative functions of The Church according to Article VI
-   E, "Constitution for Churches". They may appoint such officers or committees
-   as are necessary to properly fulfill the ministry of The Church.
+The Elders shall serve with the Senior Pastor in the oversight of the spiritual
+and administrative functions of The Church in the following areas. They may
+appoint such officers or committees as are necessary to properly fulfil the
+ministry of The Church.
+
+1. To oversee preaching and teaching
+
+2. To make decisions on matters of doctrine and practice affecting The Church.
+
+3. For the provision of pastoral care, including visitation, counselling,
+   anointing and prayer for the sick.
+
+4. For examining candidates for membership, disciplining members and keeping the
+   membership rolls up to date.
+
+5. To oversee The Church's programmes to ensure their harmony and contribution
+   to the purposes of The Church.
+
+6. For appointing people to non-elected positions and for filling positions
+   becoming vacant between annual meetings.
+
+7. To issue calls to pastoral candidates with the approval of the Church
+   Membership and the National Director.
+
+8. To appoint a secretary who shall keep the minutes of all Elders Board
+   meetings.
 
 ### Section V Individual Duties
 
@@ -269,7 +294,7 @@ Membership Meetings.
 ### Section I Structure
 
 1. The Executive Committee shall be elected at the Annual Membership Meeting
-   with the exception of the Chairman.  The Chairman of the Board of Elders
+   with the exception of the Chairman. The Chairman of the Board of Elders
    shall appoint the Chairman of the Executive Committee.
 
 2. The Executive Committee shall consist of the Chairman, Vice Chairman,
@@ -311,11 +336,11 @@ Membership Meetings.
 1. An Executive Committee member shall be a born-again Christian and baptised
    for at least five years.
 
-2. Biblical standards shall be taken into consideration.  (I Timothy 3:813, Acts
-   6:16)
+2. An Executive Committee member shall satisfy the character requirements for
+   church leadership as set forth in 1 Timothy 3 and Acts 6.
 
-3. Executive Committee members must have been active members of The Church and
-   must have been attended the Church for at least two years.
+3. An Executive Committee member must have been an active member of The Church
+   and have attended The Church for at least two years.
 
 ### Section IV Responsibilities
 
@@ -325,11 +350,11 @@ Membership Meetings.
 
 2. In the absence of a Board of Elders, the Executive Committee shall be
    responsible for the general business and operations of The Church. Any
-   elected elders and all Fulltime Pastoral Staff shall be exofficio members of
-   the Executive Committee and shall be represented at all Executive Committee
-   meetings.
+   elected elders and all full-time Pastoral Staff shall be ex-officio members
+   of the Executive Committee and shall be represented at all Executive
+   Committee meetings.
 
-### Section V Individual Duiies
+### Section V Individual Duties
 
 1. Chairman
 
@@ -362,16 +387,16 @@ Membership Meetings.
 ## Article IX Departments
 
 Departments established under the authority of the Board of Elders shall be
-amenable to the Board of Elders.  The Nomination Committee is amenable to the
+amenable to the Board of Elders. The Nomination Committee is amenable to the
 congregation.
 
 ## Article X Nominating Committee
 
 The Nominating Committee shall consist of the Senior Pastor and four additional
 members: two from the general membership and two from the Board of Elders (in
-the absence of a Board of Elders, two from the Executive Committee).  These four
+the absence of a Board of Elders, two from the Executive Committee). These four
 members shall be elected by ballot by the respective bodies at least three
-months prior to the Annual Membership meeting.  The Senior Pastor or in his
+months prior to the Annual Membership meeting. The Senior Pastor or in his
 absence the Assistant Pastor, or the Senior Pastor's appointee shall be the
 Chairman of this committee.
 
@@ -396,7 +421,7 @@ Chairman of this committee.
    the Nominating Committee.
 
 5. Those nominees who are not elected for a particular office will automatically
-   become nominees for the Members At Large of the Executive Committee.
+   become nominees for the Executive Committee.
 
 ### Section II Elections
 
@@ -404,21 +429,39 @@ Chairman of this committee.
    exception of the Pastoral Staff and the Chairman of the Executive Committee,
    shall be elected at the Annual Membership Meeting.
 
-2. Elections shall be by ballot and the nominees shall get 50% of the cast vote
-   for him to be successfully elected. (The 50% rule is applicable to the
-   elections of the Executive Committee Member and representatives from the
-   general membership.
+2. Elections shall be by ballot and the nominees shall require a majority vote
+   for him to be successfully elected. (This rule is applicable to the elections
+   of the Executive Committee Member and representatives from the general
+   membership.)
 
 3. The Executive Committee shall appoint two active members to count the
-   ballots, and shall invite two members of the pastoral staff or of Board of
-   Elders to supervise the proceedings.
+   ballots, and shall invite two members of the pastoral staff or of the Board
+   of Elders to supervise the proceedings.
 
 ## Article XII Property And Records
 
 ### Section I Property
 
-The Church accepts Article XII "Property” as outlined in the General
-Constitution of The Alliance.
+1. Real Property
+
+   The title to all real property shall be held by The Alliance. The Alliance
+   National Leadership Team shall provide a declaration of trust indicating that
+   the property is held in trust for The Church. The Church may acquire, sell,
+   convey, exchange or encumber real property by order of The Church membership
+   through the Executive Committee. Where trustees are required, the order of
+   membership shall proceed through them.
+
+2. Personal Property
+
+   The Church may acquire, sell, improve, encumber and convey personal property
+   for church purposes.
+
+3. Dissolution
+
+   Should The Church cease to exist or cease to be subject to the constitution
+   of The Alliance, then all of its property, appurtenances, and effects, then
+   owned or held by it shall enure to the benefit of, and become the property of
+   The Alliance.
 
 ### Section II Records
 
@@ -444,7 +487,7 @@ officers of The Church.
 1. The annual budget shall include the operating and capital budgets of all
    departments and projects of The Church.
 
-2. The annual budget shall cover the fiscal year of August 1 to July 31.
+2. The annual budget shall cover the fiscal year from 1 August to 31 July.
 
 3. The annual budget shall be prepared by the Executive Committee by the third
    Sunday of July, reviewed by the Executive Committee by the second Sunday of
@@ -456,7 +499,7 @@ officers of The Church.
 
 5. After budget approval the Executive Committee shall exercise due diligence in
    the use of cash by setting priorities for spending with the objective of
-   maintaining balanced cash position.
+   maintaining a balanced cash position.
 
 ### Section II Un-Budgeted Expenditures
 
@@ -474,12 +517,12 @@ officers of The Church.
 
 ### Section III Accounting
 
-1. Authorized signatory
+1. Authorised signatory
 
-   The authorized signatory of The Church shall be the Senior Pastor, the
+   The authorised signatory of The Church shall be the Senior Pastor, the
    Treasurer and the Assistant Treasurer and one designated Elder and/or one
-   designated member of the Executive Committee. A11 cheques shall be signed by
-   any two of the above.  All checks in other departments (including
+   designated member of the Executive Committee. All cheques shall be signed by
+   any two of the above. All cheques in other departments (including
    fellowships) shall be signed by two persons who are appointed by the
    leadership of that department or fellowship.
 
@@ -512,15 +555,7 @@ shall be the original.
 ### Section II Amendments
 
 1. These bylaws may be amended by a two third majority of the votes cast by the
-   members in a Membership Meeting and approved by the Board of Managers of New
-   Zealand.
+   members in a Membership Meeting.
 
-2. These by-laws have been drafted and approved by the Advisory Committee on 14
-   of June 1993 and approved at the first Membership Meeting on 26 of June 1993
-   and approved by the Board of Managers on 26 of June 1993.
-
-3. The Board of Managers of New Zealand shall approve the Bylaws before becoming
-   effective.
-
-4. The masculine pronouns in these Bylaws shall also represent the feminine
+2. The masculine pronouns in these Bylaws shall also represent the feminine
    persons.
